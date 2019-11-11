@@ -1,0 +1,1 @@
+type_array = ["background","clipping","player","door"]; sub_array = [null,null,null,["toggle"]]; load_fgd_2();

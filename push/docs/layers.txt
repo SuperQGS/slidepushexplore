@@ -1,0 +1,4 @@
+0. background
+1. gamepieces
+2. clipping
+3. foreground
